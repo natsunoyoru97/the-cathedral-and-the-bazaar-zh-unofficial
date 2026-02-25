@@ -6,3 +6,4 @@
     - [超越极客社区与礼物文化的视角](04_magic_cauldron/subchapter_2_beyond_geeks_bearing_gifts.md)
     - [“软件产业属于制造业”是错觉](04_magic_cauldron/subchapter_3_manufacturing_delusion.md)
     - [信息渴望“自由”之迷思](04_magic_cauldron/subchapter_4_the_information_wants_to_be_free_myth.md)
+    - [反向公地的正向循环](04_magic_cauldron/subchapter_5_the_inverse_commons.md)
