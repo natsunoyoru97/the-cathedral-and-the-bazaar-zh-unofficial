@@ -8,3 +8,4 @@
     - [信息渴望“自由”之迷思](04_magic_cauldron/subchapter_4_the_information_wants_to_be_free_myth.md)
     - [反向公地的正向循环](04_magic_cauldron/subchapter_5_the_inverse_commons.md)
     - [选择闭源的理由](04_magic_cauldron/subchapter_6_reasons_for_closing_source.md)
+    - [基于使用价值的开源资助模式](04_magic_cauldron/subchapter_7_use_value_funding_models.md)
