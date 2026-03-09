@@ -10,3 +10,4 @@
     - [选择闭源的理由](04_magic_cauldron/subchapter_6_reasons_for_closing_source.md)
     - [基于使用价值的开源资助模式](04_magic_cauldron/subchapter_7_use_value_funding_models.md)
     - [销售价值的困境](04_magic_cauldron/subchapter_8_why_sale_value_is_problematic.md)
+    - [开源软件的间接获利之道](04_magic_cauldron/subchapter_9_indirect_sale-value_models.md)
