@@ -3,7 +3,7 @@
 《大教堂与集市》个人重译版，献给对书中提出的思想框架感到好奇、喜爱智识挑战的各位读者。
 
 ## 版权与许可声明（译文）
-本文是埃里克·S·雷蒙德（Eric S. Raymond）《大教堂与集市》（The Cathedral and the Bazaar）的中文翻译，基于作者发布的原始文章版本（OPL v2.0）翻译。
+本仓库的收录的文集是埃里克·S·雷蒙德（Eric S. Raymond）《大教堂与集市》（The Cathedral and the Bazaar）的中文翻译，基于作者发布的原始文章版本（OPL v2.0）翻译。
 
 ### 原始作品信息
 - 原作者：Eric S. Raymond（ESR）
