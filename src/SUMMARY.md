@@ -11,3 +11,4 @@
     - [基于使用价值的开源资助模式](04_magic_cauldron/subchapter_7_use_value_funding_models.md)
     - [销售价值的困境](04_magic_cauldron/subchapter_8_why_sale_value_is_problematic.md)
     - [开源软件的间接获利之道](04_magic_cauldron/subchapter_9_indirect_sale-value_models.md)
+    - [何时开源，何时闭源](04_magic_cauldron/subchapter_10_when_to_be_open_when_to_be_closed.md)
