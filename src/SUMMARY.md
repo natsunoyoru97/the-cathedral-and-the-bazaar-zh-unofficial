@@ -14,3 +14,4 @@
     - [何时开源，何时闭源](04_magic_cauldron/subchapter_10_when_to_be_open_when_to_be_closed.md)
     - [以开源为战略利器](04_magic_cauldron/subchapter_11_open_source_as_a_strategic_weapon.md)
     - [开源视角下的战略性商业风险](04_magic_cauldron/subchapter_12_open_source_and_strategic_business_risk.md)
+    - [开源软件的商业生态](04_magic_cauldron/subchapter_13_the_business_ecology_of_open_source.md)
