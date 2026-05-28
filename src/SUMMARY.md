@@ -12,3 +12,5 @@
     - [销售价值的困境](04_magic_cauldron/subchapter_8_why_sale_value_is_problematic.md)
     - [开源软件的间接获利之道](04_magic_cauldron/subchapter_9_indirect_sale-value_models.md)
     - [何时开源，何时闭源](04_magic_cauldron/subchapter_10_when_to_be_open_when_to_be_closed.md)
+    - [以开源为战略利器](04_magic_cauldron/subchapter_11_open_source_as_a_strategic_weapon.md)
+    - [开源视角下的战略性商业风险](04_magic_cauldron/subchapter_12_open_source_and_strategic_business_risk.md)
