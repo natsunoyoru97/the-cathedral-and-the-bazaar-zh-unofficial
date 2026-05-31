@@ -16,3 +16,5 @@
     - [开源视角下的战略性商业风险](04_magic_cauldron/subchapter_12_open_source_and_strategic_business_risk.md)
     - [开源软件的商业生态](04_magic_cauldron/subchapter_13_the_business_ecology_of_open_source.md)
     - [与成功共处](04_magic_cauldron/subchapter_14_coping_with_success.md)
+    - [开放研发与赞助体系革新](04_magic_cauldron/subchapter_15_open_r&d_and_the_reinvention_of_patron.md)
+    - [现状到未来的转型方向](04_magic_cauldron/subchapter_16_getting_there_from_here.md)
