@@ -18,3 +18,4 @@
     - [与成功共处](04_magic_cauldron/subchapter_14_coping_with_success.md)
     - [开放研发与赞助体系革新](04_magic_cauldron/subchapter_15_open_r&d_and_the_reinvention_of_patron.md)
     - [现状到未来的转型方向](04_magic_cauldron/subchapter_16_getting_there_from_here.md)
+    - [结论：变革之后的生活](04_magic_cauldron/subchapter_17_conclusion.md)
