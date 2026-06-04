@@ -9,6 +9,7 @@
 
 ## 译文信息
 - 译者：natsunoyoru97
+- 网络域名：https://www.the-cathedral-and-the-bazaar-unofficial.online/
 - 仓库地址：https://github.com/natsunoyoru97/the-cathedral-and-the-bazaar
 - 翻译日期：2026年2月6日
 - 译文版权：Copyright © 2026 natsunoyoru97
