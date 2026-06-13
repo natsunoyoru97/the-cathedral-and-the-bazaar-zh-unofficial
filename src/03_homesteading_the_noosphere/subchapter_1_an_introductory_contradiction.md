@@ -8,8 +8,8 @@
 
 ```admonish note title="译者注"
 a. 这句话融合了多种理论，深受文化功能主义、系统论与控制论影响：
-    - 文化进化论 (Cultural Evolution)：文化是能适应环境、不断演化且具备实际作用的系统；
-    - 文化心理学 (Cultural Psychology)：区分了人有意识的观念，以及无意识、半自觉的内在认知；
-    - 文化人类学 (Cultural Anthropology) 中的功能主义 (Functionalism)：文化不是随机形成的，每一部分都有“功能”，用以维系社会群体生存、适应环境；
-    - 系统论/控制论隐喻：20 世纪中后期，社会科学常用机器、有机体来类比文化与社会，比如斯宾塞（Spencer）的社会有机体论 (Social Organism Theory)，还有将文化比作热力学机器、信息处理机器的说法。
+  - **文化进化论 (Cultural Evolution)**：文化是能适应环境、不断演化且具备实际作用的系统；
+  - **文化心理学 (Cultural Psychology)**：区分了人有意识的观念，以及无意识、半自觉的内在认知；
+  - **文化人类学 (Cultural Anthropology)** 中的**功能主义 (Functionalism)**：文化不是随机形成的，每一部分都有“功能”，用以维系社会群体生存、适应环境；
+  - **系统论（System Theory）/控制论（Cybernetics）** 隐喻：20 世纪中后期，社会科学常用机器、有机体来类比文化与社会，比如斯宾塞（Spencer）的社会有机体论 (Social Organism Theory)，还有将文化比作热力学机器、信息处理机器的说法。
 ```
