@@ -25,7 +25,7 @@
 ```admonish note title="译者注"
 a. **互惠性（reciprocity）**：人类学核心术语，是莫斯在礼物文化理论中提出的奠基性概念。ESR使用reciprocity一词，正是意图呼应前文提到的礼物文化，它是**相互给予、相互受益**的。
 
-b. 原文为Fubarco。它并非真实存在的公司，而是美军俚语 "Fouled Up Beyond All Recognition"（糟透了/完全搞砸了）的缩写（二战时期流行，后来更常见的版本是 "Fucked Up Beyond All Repair/Recognition"）。在黑客文化和技术幽默中，常被用作虚构的占位符。
+b. 原文为 Fubarco。它并非真实存在的公司，而是美军俚语 "Fouled Up Beyond All Recognition"（糟透了/完全搞砸了）的缩写（二战时期流行，后来更常见的版本是 "Fucked Up Beyond All Repair/Recognition"）。在黑客文化和技术幽默中，常被用作虚构的占位符。
 
-c. 技术圈约定俗成的用法就是fork，故译者选择保留原文。
+c. 技术圈约定俗成的用法就是 fork，故译者选择保留原文。
 ```
