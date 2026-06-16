@@ -5,7 +5,7 @@
   - [开源圈的言行反差](03_homesteading_the_noosphere/subchapter_1_an_introductory_contradiction.md)
   - [黑客圈的理念光谱](03_homesteading_the_noosphere/subchapter_2_the_varieties_of_hacker_ideology.md)
   - [性解放的理论，清教徒的实践](03_homesteading_the_noosphere/subchapter_3_promiscuous_theory_puritan_practice.md)
-  - [所有权制度与开源](03_homesteading_the_noosphere/subchapter_4_ownership_and_open_source.md)
+  - [产权制度与开源](03_homesteading_the_noosphere/subchapter_4_ownership_and_open_source.md)
 - [第四章：魔法锅炉](04_magic_cauldron/index.md) <!-- 指向父章节的 index.md -->
     - [开源社区的成就与魔法无异](04_magic_cauldron/subchapter_1_indistinguishable_from_magic.md) <!-- 子章节，注意缩进 -->
     - [超越极客社区与礼物文化的视角](04_magic_cauldron/subchapter_2_beyond_geeks_bearing_gifts.md)
