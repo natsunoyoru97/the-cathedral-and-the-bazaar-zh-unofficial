@@ -1,7 +1,7 @@
 # Summary
 - [著佐权与许可声明（译文）](copyleft.md)
 - [译者小记](translator_note.md)
-- [第三章：开拓智域](03_homesteading_the_noosphere/index.md)
+- [第三章：垦殖智域](03_homesteading_the_noosphere/index.md)
   - [开源圈的言行反差](03_homesteading_the_noosphere/subchapter_1_an_introductory_contradiction.md)
   - [黑客圈的理念光谱](03_homesteading_the_noosphere/subchapter_2_the_varieties_of_hacker_ideology.md)
   - [性解放的理论，清教徒的实践](03_homesteading_the_noosphere/subchapter_3_promiscuous_theory_puritan_practice.md)
