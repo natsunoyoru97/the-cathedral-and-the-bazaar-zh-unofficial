@@ -7,6 +7,7 @@
   - [性解放的理论，清教徒的实践](03_homesteading_the_noosphere/subchapter_3_promiscuous_theory_puritan_practice.md)
   - [产权制度与开源](03_homesteading_the_noosphere/subchapter_4_ownership_and_open_source.md)
   - [洛克与土地产权](03_homesteading_the_noosphere/subchapter_5_locke_and_land_title.md)
+  - [黑客场域内的礼物文化](03_homesteading_the_noosphere/subchapter_6_the_hacker_milieu_as_gift_culture.md)
 - [第四章：魔法锅炉](04_magic_cauldron/index.md) <!-- 指向父章节的 index.md -->
     - [开源社区的成就与魔法无异](04_magic_cauldron/subchapter_1_indistinguishable_from_magic.md) <!-- 子章节，注意缩进 -->
     - [超越极客社区与礼物文化的视角](04_magic_cauldron/subchapter_2_beyond_geeks_bearing_gifts.md)

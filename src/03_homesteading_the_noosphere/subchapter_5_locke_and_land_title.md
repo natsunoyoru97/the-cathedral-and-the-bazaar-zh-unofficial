@@ -51,7 +51,7 @@
 ```
 
 ```admonish note title="译者注"
-a. ESR 在本文中拿黑客文化的开源项目三种方式（新建项目、接手维护、认领废弃项目）作类比，对应英美普通法中土地产权的三种获取方式： 垦殖（homesteading）、产权转让（transfer of title）、逆权占有（adverse possession），而英美普通法中的此规定源自洛克的理论。详见《政府论》（*Two Treatises of Government*）下篇第五章“论产权”（Of Property），后面几条注亦有定义。
+a. ESR 在本文中拿黑客文化的开源项目三种方式（新建项目、接手维护、认领废弃项目）作类比，对应英美普通法中土地产权的三种获取方式： 垦殖（homesteading）、产权转让（transfer of title）、逆权占有（adverse possession），而英美普通法中的此规定源自洛克的理论。详见《政府论》（*Two Treatises of Government*）下篇第五章“论产权”（*Of Property*），后面几条注亦有定义。
 
 b. **垦殖（homesteading）**：对洛克“通过劳动取得产权”理论的简省表述。洛克本人并未使用此词，其经典论述为：“只要他使任何东西脱离自然所提供的状态，掺进他的劳动，就使它成为他的产权。”本文以此词类比黑客文化中新建开源项目的创始人行为。
 
