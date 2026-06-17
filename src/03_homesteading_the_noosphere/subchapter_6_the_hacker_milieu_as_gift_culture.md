@@ -25,9 +25,7 @@
 这表明，如果之前还不够明显的话，那就是运作礼物文化的方式不止一种。历史和价值观很重要，我在《黑客圈简史》（A Brief History of Hackerdom）中总结了黑客文化的历史；它塑造当前行为的方式并不神秘。黑客们通过一系列关于其竞争形式的选择来定义他们的文化。本文余下部分将考察的正是这种形式。
 
 ```admonish note title="作者注"
-5. 感谢 Michael Funk (mwfunk@uncc.campus.mci.net) 指出海盗文化（pirate culture）<sup>d</sup>与黑客文化的对比多么具有启发性。Linus Walleij 在《关于‘Warez D00dz’文化的评论》(http://www.df.lth.se/˜triad/papers/Raymond_D00dz.html") 中发表了一篇关于其文化动态的分析，与我的观点不同（他将之描述为一种稀缺文化）。
-
-这种对比可能不会持久。前破解者 Andrej Brandt (andy@pilgrim.cs.net.pl) 报告说，他认为破解者/warez d00dz 文化如今正在消亡，其最聪明的人和领导者正在被吸纳到开源世界。支持这一观点的独立证据可能来自一个破例的行动：1999年7月，一个自称“死牛崇拜”（Cult of the Dead Cow）的破解者组织（一般称作“死牛组织”），将其用于攻破微软Windows安全工具“Back Orifice 2000”在GPL下发布。
+5. 感谢 Michael Funk (mwfunk@uncc.campus.mci.net) 指出海盗文化（pirate culture）<sup>d</sup>与黑客文化的对比多么具有启发性。Linus Walleij 在《关于‘Warez D00dz’文化的评论》(http://www.df.lth.se/˜triad/papers/Raymond_D00dz.html") 中发表了一篇关于其文化动态的分析，与我的观点不同（他将之描述为一种稀缺文化）。这种对比可能不会持久，前破解者 Andrej Brandt (andy@pilgrim.cs.net.pl) 报告说，他认为破解者/warez d00dz 文化如今正在消亡，其最聪明的人和领导者正在被吸纳到开源世界。支持这一观点的独立证据可能来自一个破例的行动：1999年7月，一个自称“死牛崇拜”（Cult of the Dead Cow）的破解者组织（一般称作“死牛组织”），将其用于攻破微软Windows安全工具“Back Orifice 2000”在GPL下发布。
 ```
 
 ```admonish note title="译者注"
