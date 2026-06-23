@@ -11,6 +11,7 @@
   - [黑客的创造乐趣](03_homesteading_the_noosphere/subchapter_7_the_joy_of_hacking.md)
   - [礼物文化中声望的多重维度](03_homesteading_the_noosphere/subchapter_8_the_many_faces_of_reputation.md)
   - [产权如何放大声望激励](03_homesteading_the_noosphere/subchapter_9_ownership_rights_and_reputation_incentives.md)
+  - [自我问题](03_homesteading_the_noosphere/subchapter_10_the_problem_of_ego.md)
 - [第四章：魔法锅炉](04_magic_cauldron/index.md) <!-- 指向父章节的 index.md -->
     - [开源社区的成就与魔法无异](04_magic_cauldron/subchapter_1_indistinguishable_from_magic.md) <!-- 子章节，注意缩进 -->
     - [超越极客社区与礼物文化的视角](04_magic_cauldron/subchapter_2_beyond_geeks_bearing_gifts.md)
