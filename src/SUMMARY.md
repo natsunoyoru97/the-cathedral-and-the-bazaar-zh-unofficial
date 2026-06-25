@@ -22,6 +22,7 @@
   - [文化习得机制与学术界的对照](03_homesteading_the_noosphere/subchapter_18_acculturation_mechanisms_and_the_link_to_academia.md)
   - [礼物文化为什么优于交换经济](03_homesteading_the_noosphere/subchapter_19_gift_outcompetes_exchange.md)
   - [结论：从惯例到习惯法](03_homesteading_the_noosphere/subchapter_20_conclustion_from_custom_to_customary_law.md)
+  - [有待进一步研究的问题](03_homesteading_the_noosphere/subchapter_21_questions_for_further_research.md)
 - [第四章：魔法锅炉](04_magic_cauldron/index.md) <!-- 指向父章节的 index.md -->
     - [开源社区的成就与魔法无异](04_magic_cauldron/subchapter_1_indistinguishable_from_magic.md) <!-- 子章节，注意缩进 -->
     - [超越极客社区与礼物文化的视角](04_magic_cauldron/subchapter_2_beyond_geeks_bearing_gifts.md)
