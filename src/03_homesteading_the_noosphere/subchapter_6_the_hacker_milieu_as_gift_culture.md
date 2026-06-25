@@ -29,7 +29,7 @@
 ```
 
 ```admonish note title="译者注"
-a. **场域（Milieu）**：场域严格对应的词应为 field，field 对应的是强调位置争夺、资本转换、权力关系的布迪厄传统，milieu 对应的是强调浸润、熏陶、文化氛围的涂尔干传统（这也是 ESR 在本文中的分析范式），二者存在视角上的实际差异。然而 ESR 本文所用的 milieu 指的是黑客所处的整个社会—文化—经济环境，涉及人类学分析范式，不单是“环境/圈层/社群”，且 milieu 一词无学术定译，故选用“场域”一词。
+a. **场域（Milieu）**：场域严格对应的词应为 field，field 对应的是强调位置争夺、资本转换、权力关系的布迪厄传统，milieu 对应的是强调浸润、熏陶、文化氛围的涂尔干传统（这也是 ESR 在本文中重点借用的视角），二者存在视角上的实际差异。然而 ESR 本文所用的 milieu 指的是黑客所处的整个社会—文化—经济环境，涉及社会学-人类学分析范式，不单是“环境/圈层/社群”，且 milieu 一词无学术定译，故选用“场域”一词。
  
 b. **礼物文化（gift culture）**：人类学概念，指**以声望、荣誉等非货币回报**为核心的社会交换体系，法国学者马塞尔·莫斯（Marcel Israël Mauss）的经典著作《礼物：古式社会中交换的形式与理由》（*Essai sur le don. Forme et raison de l'échange dans les sociétés archaïques*，英文译作*The Gift: The Form And Reason For Exchange In Archaic Societies*）探讨了古代与现代契约经济下社会交换体系的差异。在开源语境中，指开发者通过无偿贡献代码以获取同行认可与社群声望的协作逻辑。
 
