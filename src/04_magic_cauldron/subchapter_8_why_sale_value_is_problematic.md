@@ -23,7 +23,7 @@
 ```
 
 ```admonish note title="译者注"
-a. **互惠性（reciprocity）**：人类学核心术语，是莫斯在礼物文化理论中提出的“给予-接受-回报”的奠基性概念。ESR使用 reciprocity 一词，正是意图呼应前文提到的礼物文化。本文涉及的是互惠形式中的**一种**——即马歇尔·萨林斯（Marshall Sahlins）在《石器时代经济学》（*Stone Age Economics*）中所界定的**等价互惠**（balanced reciprocity），带有明确的“给予-接受-回报”义务。“给予的义务是夸富宴的本质”（Mauss，1925；《礼物》第二章，商务印书馆汲吉译本）。
+a. **互惠性（reciprocity）**：人类学核心术语，是莫斯在礼物文化理论中“给予——接受——回报”的奠基性概念。ESR使用 reciprocity 一词，正是意图呼应前文提到的礼物文化。本文所强调的原则尤其接近**其中一种**互惠形式——即马歇尔·萨林斯（Marshall Sahlins）在《石器时代经济学》（*Stone Age Economics*）中所界定的**等价互惠**（balanced reciprocity），带有明确的“给予-接受-回报”义务。“给予的义务是夸富宴的本质”（Mauss，1925；《礼物》第二章，商务印书馆汲吉译本）。
 
 b. 原文为 Fubarco。这是一个虚构的公司名，源于美军俚语 "Fouled Up Beyond All Recognition"（糟透了/完全搞砸了）的缩写（二战时期流行，后来更常见的版本是 "Fucked Up Beyond All Repair/Recognition"）。在黑客文化和技术幽默中，常被用作虚构的占位符。
 

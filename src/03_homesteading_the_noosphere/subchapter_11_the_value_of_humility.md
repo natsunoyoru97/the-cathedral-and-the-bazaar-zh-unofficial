@@ -33,5 +33,5 @@
 ```
 
 ```admonish note title="译者注"
-a. **丰裕文化（abundance culture）**：此为马歇尔·萨林斯（Marshall Sahlins）在《原初丰裕社会》（*Original Affluent Society*）一文中提出的“丰裕社会”（Affluent Society）的对应概念，与"匮乏文化"相对，指资源充裕、不以稀缺为前提的文化形态。在人类学中，此类文化往往发展出以馈赠和声望为核心的礼物文化交换体系。
+a. **丰裕文化（abundance culture）**：此概念可对应、并参照马歇尔·萨林斯（Marshall Sahlins）在《原初丰裕社会》（*Original Affluent Society*）一文中提出的“丰裕社会”（affluent society），与"匮乏文化"相对，指不以稀缺和积累为核心前提的文化形态（“丰裕”未必意味着资源客观无限，而是指需求、分配和社会期望的结构使资源不以稀缺竞争的形式得到组织）。在人类学中，此类文化往往发展出以馈赠和声望为核心的礼物文化交换体系。
 ```
