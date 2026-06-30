@@ -4,6 +4,7 @@
 - [第二章：大教堂与集市](02_the_cathedral_and_the_bazaar/index.md)
   - [大教堂与集市](02_the_cathedral_and_the_bazaar/subchapter_1_the_cathedral_and_the_bazaar.md)
   - [使命必达](02_the_cathedral_and_the_bazaar/subchapter_2_the_mail_must_get_through.md)
+  - [用户群体的重要作用](02_the_cathedral_and_the_bazaar/subchapter_3_the_importance_of_having_users.md)
 - [第三章：垦殖智域](03_homesteading_the_noosphere/index.md)
   - [开源圈的言行反差](03_homesteading_the_noosphere/subchapter_1_an_introductory_contradiction.md)
   - [黑客圈的理念光谱](03_homesteading_the_noosphere/subchapter_2_the_varieties_of_hacker_ideology.md)
