@@ -11,7 +11,7 @@
   - [黑客圈的理念光谱](03_homesteading_the_noosphere/subchapter_2_the_varieties_of_hacker_ideology.md)
   - [性解放的理论，清教徒的实践](03_homesteading_the_noosphere/subchapter_3_promiscuous_theory_puritan_practice.md)
   - [产权制度与开源](03_homesteading_the_noosphere/subchapter_4_ownership_and_open_source.md)
-  - [洛克与土地产权](03_homesteading_the_noosphere/subchapter_5_locke_and_land_title.md)
+  - [洛克与土地财产权](03_homesteading_the_noosphere/subchapter_5_locke_and_land_title.md)
   - [黑客场域内的礼物文化](03_homesteading_the_noosphere/subchapter_6_the_hacker_milieu_as_gift_culture.md)
   - [黑客的创造乐趣](03_homesteading_the_noosphere/subchapter_7_the_joy_of_hacking.md)
   - [礼物文化中声望的多重维度](03_homesteading_the_noosphere/subchapter_8_the_many_faces_of_reputation.md)
