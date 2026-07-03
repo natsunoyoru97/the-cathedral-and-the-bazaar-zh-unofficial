@@ -6,6 +6,7 @@
   - [使命必达](02_the_cathedral_and_the_bazaar/subchapter_2_the_mail_must_get_through.md)
   - [用户群体的重要作用](02_the_cathedral_and_the_bazaar/subchapter_3_the_importance_of_having_users.md)
   - [早发布，常发布](02_the_cathedral_and_the_bazaar/subchapter_4_release_early_release_often.md)
+  - [足够多的眼睛，就能驯服复杂性](02_the_cathedral_and_the_bazaar/subchapter_5_many_eyeballs_tame_complexity.md)
 - [第三章：垦殖智域](03_homesteading_the_noosphere/index.md)
   - [开源圈的言行反差](03_homesteading_the_noosphere/subchapter_1_an_introductory_contradiction.md)
   - [黑客圈的理念光谱](03_homesteading_the_noosphere/subchapter_2_the_varieties_of_hacker_ideology.md)
