@@ -13,6 +13,7 @@
   - [从 Fetchmail 学到的其他经验](02_the_cathedral_and_the_bazaar/subchapter_9_a_few_more_lessons_from_fetchmail.md)
   - [集市模式的必要前提](02_the_cathedral_and_the_bazaar/subchapter_10_necessary_preconditions_for_the_bazaar_style.md)
   - [开源软件的社会化协作背景](02_the_cathedral_and_the_bazaar/subchapter_11_the_social_context_of_open-source_software.md)
+  - [论管理与马奇诺防线](02_the_cathedral_and_the_bazaar/subchapter_12_on_management_and_the_maginot_line.md)
 - [第三章：垦殖智域](03_homesteading_the_noosphere/index.md)
   - [开源圈的言行反差](03_homesteading_the_noosphere/subchapter_1_an_introductory_contradiction.md)
   - [黑客圈的理念光谱](03_homesteading_the_noosphere/subchapter_2_the_varieties_of_hacker_ideology.md)
