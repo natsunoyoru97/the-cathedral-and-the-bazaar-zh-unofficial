@@ -15,5 +15,5 @@
 ```admonish note title="译者注"
 a. **“大铁块”大型机（big iron）**：行业黑话，指代早年体积庞大、整机为金属机柜的传统大型主机，对应批处理时代集中式计算硬件。
 
-b. 闪烁指示灯（Blinkenlights）：源自恶搞德语的经典机房海报，通篇用混搭英语、伪德语的滑稽句式提醒操作员勿乱碰设备面板指示灯，blinkenlights字面意为 “闪烁的灯”，后来泛指老式计算机面板上的硬件状态指示灯，是上古计算机文化标志性符号，[原版海报存档地址在此]（http://www.catb.org/~esr/jargon/html/B/blinkenlights.html）。
+b. **闪烁指示灯（Blinkenlights）**：源自恶搞德语的经典机房海报，通篇用混搭英语、伪德语的滑稽句式提醒操作员勿乱碰设备面板指示灯，blinkenlights字面意为 “闪烁的灯”，后来泛指老式计算机面板上的硬件状态指示灯，是上古计算机文化标志性符号，[原版海报存档地址在此]（http://www.catb.org/~esr/jargon/html/B/blinkenlights.html）。
 ```
