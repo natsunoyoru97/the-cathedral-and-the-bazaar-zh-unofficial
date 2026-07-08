@@ -1,6 +1,8 @@
 # Summary
 - [著佐权与许可声明（译文）](copyleft.md)
 - [译者小记](translator_note.md)
+- [第一章：黑客文化简史](01_a_brief_history_of_hackerdom/index.md)
+  - [序幕：真正的程序员](01_a_brief_history_of_hackerdom/subchapter_1_prologue_the_real_programmers.md)
 - [第二章：大教堂与集市](02_the_cathedral_and_the_bazaar/index.md)
   - [大教堂与集市](02_the_cathedral_and_the_bazaar/subchapter_1_the_cathedral_and_the_bazaar.md)
   - [使命必达](02_the_cathedral_and_the_bazaar/subchapter_2_the_mail_must_get_through.md)
@@ -14,6 +16,7 @@
   - [集市模式的必要前提](02_the_cathedral_and_the_bazaar/subchapter_10_necessary_preconditions_for_the_bazaar_style.md)
   - [开源软件的社会化协作背景](02_the_cathedral_and_the_bazaar/subchapter_11_the_social_context_of_open-source_software.md)
   - [论管理与马奇诺防线](02_the_cathedral_and_the_bazaar/subchapter_12_on_management_and_the_maginot_line.md)
+  - [尾声：网景拥抱集市](02_the_cathedral_and_the_bazaar/subchapter_13_epilog_netscape_embraces_the_bazaar.md)
 - [第三章：垦殖智域](03_homesteading_the_noosphere/index.md)
   - [开源圈的言行反差](03_homesteading_the_noosphere/subchapter_1_an_introductory_contradiction.md)
   - [黑客圈的理念光谱](03_homesteading_the_noosphere/subchapter_2_the_varieties_of_hacker_ideology.md)
@@ -36,7 +39,7 @@
   - [礼物文化为什么优于交换经济](03_homesteading_the_noosphere/subchapter_19_gift_outcompetes_exchange.md)
   - [结论：从惯例到习惯法](03_homesteading_the_noosphere/subchapter_20_conclustion_from_custom_to_customary_law.md)
   - [有待进一步研究的问题](03_homesteading_the_noosphere/subchapter_21_questions_for_further_research.md)
-- [第四章：魔法锅炉](04_magic_cauldron/index.md) <!-- 指向父章节的 index.md -->
+- [第四章：魔法锅炉](04_magic_cauldron/index.md) 
     - [开源社区的成就与魔法无异](04_magic_cauldron/subchapter_1_indistinguishable_from_magic.md) <!-- 子章节，注意缩进 -->
     - [超越极客社区与礼物文化的视角](04_magic_cauldron/subchapter_2_beyond_geeks_bearing_gifts.md)
     - [“软件产业属于批量制造业”是错觉](04_magic_cauldron/subchapter_3_manufacturing_delusion.md)
