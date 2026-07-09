@@ -3,6 +3,7 @@
 - [译者小记](translator_note.md)
 - [第一章：黑客文化简史](01_a_brief_history_of_hackerdom/index.md)
   - [序幕：真正的程序员](01_a_brief_history_of_hackerdom/subchapter_1_prologue_the_real_programmers.md)
+  - [早期黑客](01_a_brief_history_of_hackerdom/subchapter_2_the_early_hackers.md)
 - [第二章：大教堂与集市](02_the_cathedral_and_the_bazaar/index.md)
   - [大教堂与集市](02_the_cathedral_and_the_bazaar/subchapter_1_the_cathedral_and_the_bazaar.md)
   - [使命必达](02_the_cathedral_and_the_bazaar/subchapter_2_the_mail_must_get_through.md)
