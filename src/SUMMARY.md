@@ -4,6 +4,8 @@
 - [第一章：黑客文化简史](01_a_brief_history_of_hackerdom/index.md)
   - [序幕：真正的程序员](01_a_brief_history_of_hackerdom/subchapter_1_prologue_the_real_programmers.md)
   - [早期黑客](01_a_brief_history_of_hackerdom/subchapter_2_the_early_hackers.md)
+  - [Unix的崛起](01_a_brief_history_of_hackerdom/subchapter_3_the_rise_of_unix.md)
+  - [远古时代的终结](01_a_brief_history_of_hackerdom/subchapter_4_the_end_of_elder_days.md)
 - [第二章：大教堂与集市](02_the_cathedral_and_the_bazaar/index.md)
   - [大教堂与集市](02_the_cathedral_and_the_bazaar/subchapter_1_the_cathedral_and_the_bazaar.md)
   - [使命必达](02_the_cathedral_and_the_bazaar/subchapter_2_the_mail_must_get_through.md)
@@ -59,3 +61,4 @@
     - [现状到未来的转型方向](04_magic_cauldron/subchapter_16_getting_there_from_here.md)
     - [结论：变革之后的生活](04_magic_cauldron/subchapter_17_conclusion.md)
     - [附录：为什么闭源驱动反而让厂商赔钱](04_magic_cauldron/subchapter_18_afterword.md)
+  <!-- - [译后记](translator_note_translation.md) -->
