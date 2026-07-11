@@ -6,6 +6,7 @@
   - [早期黑客](01_a_brief_history_of_hackerdom/subchapter_2_the_early_hackers.md)
   - [Unix的崛起](01_a_brief_history_of_hackerdom/subchapter_3_the_rise_of_unix.md)
   - [远古时代的终结](01_a_brief_history_of_hackerdom/subchapter_4_the_end_of_elder_days.md)
+  - [专有 Unix 时代](01_a_brief_history_of_hackerdom/subchapter_5_the_proprietary-unix_era.md)
 - [第二章：大教堂与集市](02_the_cathedral_and_the_bazaar/index.md)
   - [大教堂与集市](02_the_cathedral_and_the_bazaar/subchapter_1_the_cathedral_and_the_bazaar.md)
   - [使命必达](02_the_cathedral_and_the_bazaar/subchapter_2_the_mail_must_get_through.md)
