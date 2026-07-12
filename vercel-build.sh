@@ -8,6 +8,7 @@ mv /tmp/mdbook /usr/local/bin/
 mdbook --version || exit 1
 
 # 2. 安装 mdbook-admonish
+# NOTE: 由于新版存在构建 bug，故选用 v1.20.0
 echo "Installing mdbook-admonish"
 ADMONISH_URL="https://github.com/tommilligan/mdbook-admonish/releases/download/v1.20.0/mdbook-admonish-v1.20.0-x86_64-unknown-linux-gnu.tar.gz"
 curl -sSLf "$ADMONISH_URL" | tar -xz -C /tmp
