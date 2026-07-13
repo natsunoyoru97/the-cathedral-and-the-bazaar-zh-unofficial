@@ -1,0 +1,2 @@
+# config.yml
+blank_issues_enabled: false # 禁止用户提交空白 Issue

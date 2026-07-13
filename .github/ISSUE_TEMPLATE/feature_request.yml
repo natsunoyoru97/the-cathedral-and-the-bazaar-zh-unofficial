@@ -1,0 +1,30 @@
+name: "✨ 功能建议"
+description: "为这个项目提一个新点子。"
+title: "[Feature] "
+labels: ["type: enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: 你的功能请求是否与某个问题有关？
+      description: 请清晰、简洁地描述这个问题是什么。
+      placeholder: "当我使用 [...] 时，我总是觉得很不方便..."
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: 描述你想要的解决方案
+      description: 请清晰、简洁地描述你希望发生的事情。
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: 描述你考虑过的替代方案
+      description: 请清晰、简洁地描述你考虑过的任何其他解决方案或功能。
+  - type: textarea
+    id: context
+    attributes:
+      label: 其他背景信息
+      description: 在这里添加关于功能请求的任何其他背景信息或截图。

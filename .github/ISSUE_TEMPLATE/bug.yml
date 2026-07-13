@@ -1,0 +1,48 @@
+name: "🐛 Bug反馈"
+description: "提交一个问题或错误报告。"
+title: "[Bug] "
+labels: ["type: bug", "status: needs-triage"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: 问题描述
+      description: 请清晰、简洁地描述这个问题是什么。
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: 复现步骤
+      description: 请提供一步步的重现步骤。
+      placeholder: |
+        1. 去到 '...'
+        2. 点击 '....'
+        3. 滚动到 '....'
+        4. 看到错误
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 预期行为
+      description: 你期望发生的是什么？
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: 环境信息
+      description: 请提供你的操作系统、浏览器版本等信息。
+      value: |
+        - OS: [例如 Windows 11]
+        - Browser: [例如 Chrome 120]
+        - Version: [例如 v1.0.0]
+    validations:
+      required: false
+  - type: textarea
+    id: logs
+    attributes:
+      label: 相关日志或截图
+      description: 请粘贴任何相关的日志输出或截图。
+      render: shell

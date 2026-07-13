@@ -1,0 +1,28 @@
+name: "💬 友善讨论"
+description: "发起一个关于译文内容的讨论。"
+title: "[讨论] "
+labels: ["type: discussion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        欢迎发起友善、建设性的讨论！
+  - type: textarea
+    id: topic
+    attributes:
+      label: 讨论主题
+      description: 你想讨论什么？
+    validations:
+      required: true
+  - type: textarea
+    id: thoughts
+    attributes:
+      label: 你的想法或观点
+      description: 请分享你的思考或疑问。
+    validations:
+      required: true
+  - type: textarea
+    id: references
+    attributes:
+      label: 相关参考 (可选)
+      description: 如果有相关的链接、文档或资料，可以贴在这里。

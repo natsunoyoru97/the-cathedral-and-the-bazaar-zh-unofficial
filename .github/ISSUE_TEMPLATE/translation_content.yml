@@ -1,0 +1,36 @@
+name: "📝 译文勘误"
+description: "报告译文中错字以外的错误。"
+title: "[译文勘误] "
+labels: ["type: typo"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢你帮忙让译文更准确！请填写以下信息。
+  - type: input
+    id: location
+    attributes:
+      label: 错误位置
+      description: 请提供错误所在的章节、段落或文件名。
+      placeholder: "例如：章节3.5，第二段"
+    validations:
+      required: true
+  - type: textarea
+    id: wrong-text
+    attributes:
+      label: 错误内容
+      description: 请直接粘贴或输入有误的文字。
+    validations:
+      required: true
+  - type: textarea
+    id: correct-text
+    attributes:
+      label: 正确内容
+      description: 请提供你认为正确的文字。
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: 补充说明 (可选)
+      description: 如果有其他需要说明的信息，可以写在这里。
