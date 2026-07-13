@@ -64,4 +64,4 @@
     - [现状到未来的转型方向](04_magic_cauldron/subchapter_16_getting_there_from_here.md)
     - [结论：变革之后的生活](04_magic_cauldron/subchapter_17_conclusion.md)
     - [附录：为什么闭源驱动反而让厂商赔钱](04_magic_cauldron/subchapter_18_afterword.md)
-  <!-- - [译后记](translator_note_translation.md) -->
+    - [译后记](translator_note_translation.md)
