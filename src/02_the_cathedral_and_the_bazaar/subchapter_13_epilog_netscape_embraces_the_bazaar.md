@@ -31,7 +31,7 @@ designed Netscape’s source-release strategy and license together.
 与此同时，开源理念在其他领域遍地开花，收获了大批拥护者。自从网景开放源码之后，业界对开源开发模式的关注度呈爆炸式增长；这股浪潮与 Linux 操作系统的持续兴盛相辅相成、彼此助推。当年由 Mozilla 掀起的开源风潮，至今仍在加速蔓延。
 
 ```admonish note title="译者注"
-a. 杰米·扎温斯基在离职时发表了一封著名的[公开信](https://www.jwz.org/gruntle/nomo.html)，详细剖析了Mozilla项目的问题，如感兴趣可以查阅。
+a. 杰米·扎温斯基在离职时发表了一封著名的[公开信](https://www.jwz.org/gruntle/nomo.html)，详细剖析了 Mozilla 项目的问题，如感兴趣可以查阅。
 
 b. **nightly 版本（nightly release）**：即每日构建版本，经常与 stable 版本（稳定版本）、beta 版本相提并论，三者当中 nightly 版本更新频率最高、功能最新、稳定性最低（未经过 beta 测试），主要的目标用户为开发者、测试人员、技术爱好者，或需要验证新特性的用户。
 

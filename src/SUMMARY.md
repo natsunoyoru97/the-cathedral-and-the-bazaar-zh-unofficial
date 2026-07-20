@@ -68,4 +68,7 @@
   - [超越布鲁克斯定律](05_revenge_of_the_hackers/subchapter_1_beyond_brooks_law.md)
   - [迷因与迷思建构](05_revenge_of_the_hackers/subchapter_2_memes_and_mythmaking.md)
   - [通往山景城之路](05_revenge_of_the_hackers/subchapter_3_the_road_to_mountain_view.md)
+  - [“开源”概念的起源](05_revenge_of_the_hackers/subchapter_4_the_origins_of_open_source.md)
+  - [意外的革命者](05_revenge_of_the_hackers/subchapter_5_the_accidental_revolutionary.md)
+  - [实地态势](05_revenge_of_the_hackers/subchapter_7_the_facts_on_the_ground.md)
 - [译后记](translator_note_translation.md)
