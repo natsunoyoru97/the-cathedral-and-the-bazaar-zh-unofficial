@@ -73,4 +73,5 @@
   - [意外的革命者](05_revenge_of_the_hackers/subchapter_6_the_accidental_revolutionary.md)
   - [战役阶段](05_revenge_of_the_hackers/subchapter_7_phases_of_the_campaign.md)
   - [实地态势](05_revenge_of_the_hackers/subchapter_8_the_facts_on_the_ground.md)
+  - [展望未来](05_revenge_of_the_hackers/subchapter_9_into_the_future.md)
 - [译后记](translator_note_translation.md)
