@@ -1,0 +1,3 @@
+# 其他资源
+
+彼得・西巴赫（Peter Seebach）维护了一份非常实用的《黑客管理 FAQ》（Hacker FAQ，网址：http://www.plethora.net/~seebs/faqs/hacker.html），专门写给不了解黑客群体、不知该如何管理黑客员工的企业管理者。我本人还撰写了《黑客文化简史》（A Brief History of Hackerdom），在线地址：http://www.tuxedo.org/~esr/writings/hacker-history/hacker-history.html。《大教堂与集市》（The Cathedral and the Bazaar）一文系统剖析了 Linux 与开源社群的运行逻辑，链接：http://www.tuxedo.org/~esr/writings/cathedral-bazaar/index.html；续作《开拓智域》（Homesteading the Noosphere）对相关议题展开了更深入、直接的探讨，原文地址：http://www.tuxedo.org/~esr/writings/homesteading/。
