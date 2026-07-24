@@ -1,5 +1,6 @@
 # Summary
 - [著佐权与许可声明（译文）](copyleft.md)
+- [前言](foreword.md)
 - [译者小记](translator_note.md)
 - [第一章：黑客国度简史](01_a_brief_history_of_hackerdom/index.md)
   - [序幕：真正的程序员](01_a_brief_history_of_hackerdom/subchapter_1_prologue_the_real_programmers.md)
@@ -78,6 +79,8 @@
 - [附录 A：如何成为一名黑客](appendix_a_how_to_become_a_hacker/index.md)
   - [为什么会有这份文档？](appendix_a_how_to_become_a_hacker/why_this_document.md)
   - [什么是黑客？](appendix_a_how_to_become_a_hacker/what_is_a_hacker.md)
+  - [黑客文化中的声誉体系](appendix_a_how_to_become_a_hacker/status_in_the_hacker_culture.md)
   - [黑客与书呆子的关联](appendix_a_how_to_become_a_hacker/the_hacker_nerd_connection.md)
+  - [黑客的格调准则](appendix_a_how_to_become_a_hacker/points_for_style.md)
   - [其他资源](appendix_a_how_to_become_a_hacker/other_resources.md)
 - [译后记](translator_note_translation.md)
