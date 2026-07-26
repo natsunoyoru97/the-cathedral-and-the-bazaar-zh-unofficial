@@ -2,6 +2,7 @@
 - [著佐权与许可声明（译文）](copyleft.md)
 - [前言](foreword.md)
 - [第二版修订说明](revision_notes_for_the_second_edition.md)
+- [前言：你为什么要关注黑客文化](preface_why_you_should_care.md)
 - [译者小记](translator_note.md)
 - [第一章：黑客国度简史](01_a_brief_history_of_hackerdom/index.md)
   - [序幕：真正的程序员](01_a_brief_history_of_hackerdom/subchapter_1_prologue_the_real_programmers.md)
