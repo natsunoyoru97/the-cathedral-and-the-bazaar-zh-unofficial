@@ -1,107 +1,47 @@
-# The Hacker Attitude
+# 黑客的态度
 
-Hackers solve problems and build things, and they believe in freedom and voluntary mutual help. To be accepted as a hacker, you
-have to behave as though you have this kind of attitude yourself.
-And to behave as though you have the attitude, you have to really
-believe the attitude.
+黑客解决难题、创造事物，信奉自由，也崇尚自愿互助。想要被圈内认可为黑客，你的行事方式就要体现出这样的心态。而想要做出这种姿态，你必须发自内心认同这套理念。
 
-But if you think of cultivating hacker attitudes as just a way to
-gain acceptance in the culture, you’ll miss the point. Becoming the
-kind of person who believes these things is important for you—
-for helping you learn and keeping you motivated. As with all creative arts, the most effective way to become a master is to imitate
-the mind-set of masters—not just intellectually but emotionally as
-well.
-So, if you want to be a hacker, repeat the following things until
-you believe them:
+可如果你只把养成黑客心态当作融入社群的手段，那你就没有抓住要点。发自内心认同这些理念，对你本身很重要——它能推动你持续学习、保持热情。和所有创造性的技艺一样，想要修炼成高手，最有效的办法是效仿大师的思维模式，不止是在理性层面理解，更要在心境上贴合。
 
-1. The world Is Full of Fascinating Problems Waiting to Be Solved.
+所以，如果你想成为一名黑客，请反复体会下面这些理念，直到真正发自内心认同：
 
-Being a hacker is lots of fun, but it’s a kind of fun that takes lots
-of effort. The effort takes motivation. Successful athletes get their
-motivation from a kind of physical delight in making their bodies
-perform, in pushing themselves past their own physical limits.
-Similarly, to be a hacker you have to get a basic thrill from solving
-problems, sharpening your skills, and exercising your intelligence.
+1. 世界上充满了要解决的有趣问题。
 
-If you aren’t the kind of person who feels this way naturally, you’ll
-need to become one in order to make it as a hacker. Otherwise
-you’ll find your hacking energy is sapped by distractions like sex,
-money, and social approval.
+做一名黑客很有趣，但这是一种需要付出大量努力的有趣。努力需要动力，成功的运动员从身体表现、超越自身极限中获得身体上的愉悦感，从而获得动力。同样地，想成为黑客，你必须从解决问题、打磨技艺、调动思考中获得本能的兴奋。
 
-(You also have to develop a kind of faith in your own learning
-capacity — a belief that even though you may not know all of what you need to solve a problem, if you tackle just a piece of it and
-learn from that, you’ll learn enough to solve the next piece—and
-so on, until you’re done.)
+如果你不是天生就有这种感觉的人，想要走上黑客这条路，就得主动培养这种心态。不然你的钻研热情，迟早会被情欲、财富、旁人的认可这些杂念给消耗掉。
 
-2. Nobody Should Ever Have to Solve a Problem Twice.
+（同时你还要建立对自身学习能力的信心：哪怕当下尚不具备解决难题的全部知识，只要解决其中一小块并从中积累经验，你就会学到足够的知识来解决下一部分，循序渐进，直到最后大功告成。）
 
-Creative brains are a valuable, limited resource. They shouldn’t be
-wasted on re-inventing the wheel when there are so many fascinating new problems waiting out there.
+2. 同一个问题不应该解决两次。
 
-To behave like a hacker, you have to believe that the thinking time
-of other hackers is precious—so much so that it’s almost a moral
-duty for you to share information, solve problems and then give
-the solutions away just so other hackers can solve new problems
-instead of having to perpetually re-address old ones.
+富有创造力的大脑是宝贵、有限的资源。有那么多迷人的新问题等待解决，不该把脑力浪费在重新发明轮子上。
 
-(You don’t have to believe that you’re obligated to give all your
-creative product away, though the hackers that do are the ones
-who get most respect from other hackers. It’s consistent with
-hacker values to sell enough of it to keep you in food and rent and
-computers. It’s fine to use your hacking skills to support a family
-or even get rich, as long as you don’t forget your loyalty to your
-art and your fellow hackers while doing it.)
+要表现得像个黑客，你必须相信其他黑客的思考时间是宝贵的。正因如此，分享信息、解决问题之后公开方案，几乎算是一种道义责任。这样其他黑客就可以去解决新问题，不必没完没了地处理旧问题。
 
-3. Boredom and Drudgery Are Evil.
+（你不必觉得有义务把自己全部创造成果无偿公开，不过愿意这么做的黑客，往往最受其他黑客尊重。出售成果换取收入，填饱肚子、交房租、购置电脑，这完全符合黑客价值观。利用你的黑客技艺养家糊口，甚至靠它致富都没有问题，但你不要背弃你所投身的技艺，也不要背叛你的黑客同伴。）
 
-Hackers (and creative people in general) should never be bored or
-have to drudge at stupid repetitive work, because when this happens it means they aren’t doing what only they can do—solve new
-problems. This wastefulness hurts everybody. Therefore boredom
-and drudgery are not just unpleasant but actually evil.
+3. 枯燥和苦役是一种恶。
 
-To behave like a hacker, you have to believe this enough to want
-to automate away the boring bits as much as possible, not just for
-yourself but for everybody else (especially other hackers).
+黑客（乃至所有富有创造力的人）不该陷入枯燥的状态，也不必埋头干愚蠢、重复的苦役。一旦出现这种状况，就代表他们没能去做只有他们才能做的事情——解决新问题。这种人力浪费会损害所有人。所以枯燥与苦役不只是让人难受，它本身就是一种恶。
 
-(There is one apparent exception to this. Hackers will sometimes
-do things that may seem repetitive or boring to an observer as a
-mind-clearing exercise, or in order to acquire a skill or have some
-particular kind of experience you can’t have otherwise. But this is by choice—nobody who can think should ever be forced into a
-situation that bores them.)
+要表现得像个黑客，你必须由衷认同这一点，尽可能把枯燥的工作自动化，不仅为你自己，也为其他所有人（尤其是其他黑客）。
 
-4. Freedom Is Good.
+（这条原则存在一个显而易见的例外。外人看来，黑客有时会去做重复、枯燥的事，或是当作梳理思绪的练习，或者是为了学习某项技能、获取别的地方难以得到的独特体验。但这全都自愿的选择——任何拥有思考能力的人，都不该被迫困在枯燥的处境里。）
 
-Hackers are naturally anti-authoritarian. Anyone who can give
-you orders can stop you from solving whatever problem you’re
-being fascinated by—and, given the way authoritarian minds
-work, will generally find some appallingly stupid reason to do so.
-So the authoritarian attitude has to be fought wherever you find it,
-lest it smother you and other hackers.
+4. 自由是一种善。
 
-(This isn’t the same as fighting all authority. Children need to be
-guided and criminals restrained. A hacker may agree to accept
-some kinds of authority in order to get something he wants more
-than the time he spends following orders. But that’s a limited, conscious bargain; the kind of personal surrender authoritarians want is not on offer.)
+黑客天生反感威权。任何人一旦有权向你发号施令，就有可能打断钻研你所着迷问题的过程——而且，按照威权主义者的思维方式，他们通常会找出一些愚蠢得惊人的理由这么做。因此，无论在哪里遇到威权主义者的那套脑回路，都必须和它抗争，别让它压制你和其他黑客。
 
-Authoritarians thrive on censorship and secrecy. And they distrust
-voluntary cooperation and information-sharing—they only like
-‘cooperation’ that they control. So to behave like a hacker, you
-have to develop an instinctive hostility to censorship, secrecy, and
-the use of force or deception to compel responsible adults. And
-you have to be willing to act on that belief.
+（这不等同于对抗一切权威。孩童需要引导，罪犯应当受到约束。黑客有时可以选择接受某种权威，以换取比服从命令所耗费的时间更有价值的东西。但这是有限度、经过深思熟虑的交易；绝不能对威权主义者想要的那种无条件个人臣服妥协。）
 
-5. Attitude Is No Substitute for Competence.
+威权主义者靠审查与保密维系自身。他们不信任自愿协作、信息共享，只接纳受自己掌控的所谓“合作”。要表现得像个黑客，你必须本能抵触审查、保密，敌视动用强制或欺骗手段逼迫心智成熟的成年人的行为。而且你愿意把这份信念付诸行动。
 
-To be a hacker, you have to develop some of these attitudes. But
-copping an attitude alone won’t make you a hacker, any more
-than it will make you a champion athlete or a rock star. Becoming
-a hacker will take intelligence, practice, dedication, and hard
-work.
+5. 态度不能替代能力。
 
-Therefore, you have to learn to distrust attitude and respect competence of every kind. Hackers won’t let poseurs waste their time,
-but they worship competence—especially competence at hacking, but competence at anything is good. Competence at demanding
-skills that few can master is especially good, and competence at
-demanding skills that involve mental acuteness, craft, and concentration is best.
-If you revere competence, you’ll enjoy developing it in yourself—
-the hard work and dedication will become a kind of intense play
-rather than drudgery. And that’s vital to becoming a hacker.
+想要成为黑客，你必须养成上面这些心态。但光是摆出一副姿态成不了黑客，就像只靠摆姿态没法成为顶尖运动员或者摇滚巨星一样。成为黑客，离不开才智、实操、投入与辛勤的工作。
+
+所以你要明白，不必迷信所谓 “态度”，应该尊重各式各样的真本事。黑客不愿被故作姿态、装模做样的外行浪费时间，却非常崇拜能力——黑客领域的能力自不必说，任何领域的过硬本事都值得认可。掌握少数人能攻克的高难度技能尤为可贵，而那种需要思维敏锐、深耕技艺、高度专注才能驾驭的本事，则最为难得。
+
+如果你发自内心崇尚实力，就会乐于打磨自身能力；付出的辛劳与投入，会变成高强度的趣味游戏，而不是枯燥的苦役。这一点对成长为黑客至关重要。

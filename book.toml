@@ -8,6 +8,9 @@ title = "大教堂与集市"
 
 [preprocessor]
 
+[preprocessor.mdbook-image-size]
+command = "mdbook-image-size"
+
 [preprocessor.admonish]
 command = "mdbook-admonish"
 assets_version = "3.1.0" # do not edit: managed by `mdbook-admonish install`
@@ -16,3 +19,6 @@ assets_version = "3.1.0" # do not edit: managed by `mdbook-admonish install`
 
 [output.html]
 additional-css = ["./mdbook-admonish.css"]
+git-repository-url = "https://github.com/natsunoyoru97/the-cathedral-and-the-bazaar"
+git-branch = "master"
+open-on-text = "喜欢这个项目？[⭐ Star on GitHub] 查看提交历史？[📝 Commits]({repository_url}/commits/{branch})"
