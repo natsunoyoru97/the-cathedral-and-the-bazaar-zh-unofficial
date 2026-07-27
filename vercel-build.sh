@@ -15,13 +15,6 @@ curl -sSLf "$ADMONISH_URL" | tar -xz -C /tmp
 mv /tmp/mdbook-admonish /usr/local/bin/
 which mdbook-admonish || exit 1
 
-# 2. 安装 mdbook-image-size
-echo "Installing mdbook-image-size"
-IMAGE_SIZE_URL="https://github.com/lhybdv/mdbook-image-size/archive/refs/tags/0.2.0.tar.gz"
-curl -sSLf "$IMAGE_SIZE_URL" | tar -xz -C /tmp
-mv /tmp/mdbook-image-size-0.2.0 /usr/local/bin/
-which mdbook-image-size-0.2.0 || exit 1
-
 # 3. 执行构建
 echo "Preparing mdbook build"
 mdbook build
