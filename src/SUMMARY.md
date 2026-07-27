@@ -81,6 +81,7 @@
 - [附录 A：如何成为一名黑客](appendix_a_how_to_become_a_hacker/index.md)
   - [为什么会有这份文档？](appendix_a_how_to_become_a_hacker/why_this_document.md)
   - [什么是黑客？](appendix_a_how_to_become_a_hacker/what_is_a_hacker.md)
+  - [黑客基础技能](appendix_a_how_to_become_a_hacker/basic_hacking_skills.md)
   - [黑客文化中的声誉体系](appendix_a_how_to_become_a_hacker/status_in_the_hacker_culture.md)
   - [黑客与书呆子的关联](appendix_a_how_to_become_a_hacker/the_hacker_nerd_connection.md)
   - [黑客的格调准则](appendix_a_how_to_become_a_hacker/points_for_style.md)
