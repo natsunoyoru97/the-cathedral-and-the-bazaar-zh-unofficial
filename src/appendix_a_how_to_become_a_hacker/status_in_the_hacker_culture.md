@@ -24,15 +24,11 @@
 
 3. 整理发布有价值的资料
 
-Another good thing is to collect and filter useful and interesting
-information into web pages or documents like Frequently Asked
-Questions (FAQ) lists, and make those generally available.
-
 另一种可行方式：搜集、筛选实用且有价值的资讯，整理成网页或者文档（例如常见问题清单 FAQ），向所有人公开分享。
 
 主流技术 FAQ 的维护者，收获的尊重几乎与开源软件创作者不相上下。
 
-4. 维护社群基础设施运转
+1. 维护社群基础设施运转
 
 黑客文化（以及互联网的工程发展）依靠志愿者维系运转。体系持续运作离不开大量必要却鲜有光环的工作：管理邮件列表、运营新闻组、维护大型软件归档站点、起草 RFC 文档与各类技术标准。
 
