@@ -84,7 +84,7 @@ h. **PeopleSoft**：人力资源软件的开创者，于2000年率先推出了�
 
 i. **不变美元（constant dollars）**：是2012年《海峡两岸经贸名词》公布的经贸领域专业术语，指通过价格指数调整后，反映特定基期美元实际购买力的计量单位。该概念通过剔除价格波动因素，使不同时间段的美元价值具有可比性；折现值（Present Discounted Value）也称贴现值PDV，指将未来的一笔钱按照某种利率折合为现值。
 
-j. **会计规则（Accounting Rules）**：财务术语，指企业在进行会计核算（记账、算账、报账）时必须遵循的规则、程序和指南。作为系统化概念，最早由佩顿（W.A. Paton）和利特尔顿（A.C. Littleton）在1940年合著的《公司会计准则绪论》（*An Introduction to Corporate Accounting Standards*）中系统阐述。其后经美国会计程序委员会（CAP，1938）、会计原则委员会（APB，1959）及财务会计准则委员会（FASB，1973）的持续制度化，形成现代会计准则体系。美国的会计规则采用规则导向，内容详尽复杂、规范力强，与中国会计规则只规定通用处理原则的原则导向有明显区别，其“事无巨细皆有规定”的特点，正是“过时规则得以持续”的制度土壤。
+j. **会计规则（Accounting Rules）**：财务术语，指企业在进行会计核算（记账、算账、报账）时必须遵循的规则、程序和指南。此处指美国 GAAP（一般公认会计原则）。
 
-k. **本体论（Ontology）**：哲学术语，由亚里士多德在《形而上学》（τὰ μετὰ τὰ φυσικά，拉丁文转写为ta meta ta physika）中提出，研究什么东西“真正存在”、存在有哪些方式。这里指传统的会计准则建立在“本体论假设”之上，这种假设认为只有机器、厂房这类看得见摸得着的实物才是“真正存在”的资产，而程序员写的代码、创造的知识产权不算。目前已有回应该问题的会计本体论研究，如 Richard Mattessich 的著作 *Reality and Accounting: Ontological Explorations in the Economic and Social Sciences*（2014）。
+k. **本体论（Ontology）**：哲学术语，研究"作为存在的存在"，可追溯至亚里士多德《形而上学》（τὰ μετὰ τὰ φυσικά，拉丁文转写为ta meta ta physika）对存在问题的探究；"本体论"作为学科名称则为近代所立。此处指传统会计准则建立在"本体论假设"之上，认为只有机器、厂房等实物才是"真正存在"的资产，而忽视了代码、知识产权等无形资产的真实存在。目前已有回应此问题的会计本体论研究，如 Richard Mattessich 的著作 Reality and Accounting: Ontological Explorations in the Economic and Social Sciences（2014）
 ```
