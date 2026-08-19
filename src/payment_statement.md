@@ -4,4 +4,4 @@
 
 | 支付宝 | 微信 |
 |:---:|:---:|
-|![支付宝](assets/alipay-payment-code.jpg =300x300 left) | ![微信](assets/wechat-payment-code.jpg =300x300 right) |
+|![支付宝](assets/alipay-payment-code.jpg) | ![微信](assets/wechat-payment-code.jpg) |
