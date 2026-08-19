@@ -207,11 +207,3 @@ git 的分布式特性虽然保证了历史痕迹难以篡改，但无法防止�
 
 - 为 zotero 提供更细粒度的引用格式，以便引用以 git commit hash 为颗粒度的网络文本；
 - 采用功能更强大、更适配书籍表现力的 [asciidoc 输出格式](https://docs.asciidoctor.org.cn/)，而不是现行的 [markdown](https://markdown.com.cn/basic-syntax/index.html)。
-
-### 支付声明
-
-你可以支付看这本译本的费用（对，是支付，不是打赏/赞助😉），份额随喜，下限为 0 元。你的一笔支付，译者完全不保证用途：它可能会成为译者一瓶金银花露，可能会成为译者一顿辣椒炒肉，也可能成为译者手头一本新漫画书，但未必是用于完善译本和基建设施的资金；支付的 0 元也同样可能会用来完善译本和基建设施:D
-
-| 支付宝 | 微信 |
-|:---:|:---:|
-|![支付宝](/assets/alipay-payment-code.jpg =300x300 left) | ![微信](/assets/wechat-payment-code.jpg =300x300 right) |
