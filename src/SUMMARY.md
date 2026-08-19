@@ -5,7 +5,7 @@
 - [前言：你为什么要关注黑客文化](preface_why_you_should_care.md)
 - [译者小记](translator_note.md)
 - [本书导读](translator_introduction.md)
-- [开源社区为什么可以持续自组织运营？](translator_introduction_brief.md)
+- [本书简要导读：开源社区为什么可以持续自组织运营？](translator_introduction_brief.md)
 - [第一章：黑客国度简史](01_a_brief_history_of_hackerdom/index.md)
   - [序幕：真正的程序员](01_a_brief_history_of_hackerdom/subchapter_1_prologue_the_real_programmers.md)
   - [早期黑客](01_a_brief_history_of_hackerdom/subchapter_2_the_early_hackers.md)
