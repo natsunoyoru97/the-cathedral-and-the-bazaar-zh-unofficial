@@ -84,7 +84,6 @@
 
 ### L
 
-- Language Game 语言游戏：维特根斯坦后期语言哲学
 - Legacy Code 祖传代码：无人维护的代码
 - Lockean Property Model 洛克财产权理论：英美普通法土地产权制度
 - Lock-in Effect 锁定效应：W.B.阿瑟提出，切换成本导致路径依赖
