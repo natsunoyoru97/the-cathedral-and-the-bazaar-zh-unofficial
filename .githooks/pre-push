@@ -25,7 +25,6 @@ if [ ! -d "$BOOK_SRC" ]; then
     exit 1
 fi
 
-# ========= 关键修改在这里 =========
 # 1. 先进入项目根目录
 cd "$PROJECT_ROOT"
 
