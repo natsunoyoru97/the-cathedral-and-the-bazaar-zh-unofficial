@@ -102,4 +102,5 @@ ESR 自己将第 3 章定位为一份**描述性习惯法报告**：他描述的
 - 约查·本克勒（Yochai Benkler）*Coase’s Penguin, or Linux and the Nature of the Firm*：同侪生产经典论文，已收录至 P2P 基金会维基词条
 - Scott Rosenberg *Dreaming in Code*：纪实文学，追踪一个开源项目失败的全过程，讲“集市”如何陷入混乱、重构与延期
 - 娜迪亚·埃格巴尔（Nadia Eghbal） 《开放式协作：开源软件的生产与维护》（*Working in Public*）：指出 ESR 集市模型过于理想化的地方，指出当今明星项目依赖极少数“高负荷维护者”、大量 Issue 白吃白拿的“社区毒性”
+- 劳伦斯·莱斯格（Lawrence Lessig）《代码2.0》（*Code 2.0*）：揭示了网络空间代码/律法的二相性，提出“网络空间会越来越被外部权力（资本、国家）规制”
 - 范小青《开源文化在中国》：中国本土开源文化民族志，观察开源文化在东方集体主义语境下本土化的情境
