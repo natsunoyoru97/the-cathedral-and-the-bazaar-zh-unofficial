@@ -371,31 +371,36 @@
     </body>
     
     {{! theme/footer.hbs }}
-    <footer class="page-footer">
-        <div class="footer-content">
-            <div class="footer-section">
-                <span class="footer-links">
-                    <a href="mailto:natsunoyoru97@outlook.com" title="邮箱" class="footer-link">发送邮件</a>
-                    <a href="https://github.com/natsunoyoru97" title="GitHub" class="footer-link">Github</a>
-                </span>
-                <br>
-                <span>
-                    本译仅作交流，不涉商用。
+    <footer>
+        <div class="page-footer">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <span class="footer-links">
+                        <a href="mailto:natsunoyoru97@outlook.com" title="邮箱" class="footer-link">发送邮件</a>
+                        <a href="https://github.com/natsunoyoru97" title="GitHub" class="footer-link">Github</a>
+                    </span>
                     <br>
-                    欢迎洽谈其它书籍翻译出版合作。
-                </span>
+                    <span>
+                        本译仅作交流，不涉商用。
+                        <br>
+                        欢迎洽谈其它书籍翻译出版合作。
+                    </span>
+                </div>
+                <!--
+                <div class="footer-section">
+                    <span class="footer-meta">
+                        最后构建：{{build_time}} · 
+                        <a href="https://github.com/yourusername/repo/commit/{{git_commit_short}}" 
+                        class="footer-meta-link" title="查看此次构建对应的提交">
+                        {{git_commit_short}}
+                        </a>
+                    </span>
+                </div>
+                -->
             </div>
-            <!--
-            <div class="footer-section">
-                <span class="footer-meta">
-                    最后构建：{{build_time}} · 
-                    <a href="https://github.com/yourusername/repo/commit/{{git_commit_short}}" 
-                    class="footer-meta-link" title="查看此次构建对应的提交">
-                    {{git_commit_short}}
-                    </a>
-                </span>
-            </div>
-            -->
+        </div>
+        <div style="text-align: center; padding: 20px 0; border-top: 1px solid #eee; margin-top: 40px; font-size: 14px; color: #666;">
+            <a href="https://beian.miit.gov.cn/" target="_blank">鄂ICP备2026045215号</a>
         </div>
     </footer>
 
