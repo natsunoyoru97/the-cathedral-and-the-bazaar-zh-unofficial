@@ -33,7 +33,12 @@ TARGET="${SERVER_HOST}:${TARGET_PATH}"
 
 # 3. 使用相对路径 "book/" 作为源（注意结尾的 / 表示同步内容，不包含目录本身）
 echo "🚀 正在部署 book/ 到 $SERVER_HOST ..."
-rsync -avz --delete --exclude=.user.ini -e "ssh -T -o LogLevel=ERROR" book/ "$TARGET" < /dev/null
+
+#RSYNC="/usr/bin/rsync" 
+#
+#$RSYNC -avz --delete --exclude=.user.ini -e "ssh -T -o LogLevel=ERROR" book/ "$TARGET" < /dev/null
+
+scp -r -o "LogLevel=ERROR" -o "StrictHostKeyChecking=no" book/* "$TARGET"
 
 if [ $? -eq 0 ]; then
     echo "✅ 部署成功！网站根目录已更新"
