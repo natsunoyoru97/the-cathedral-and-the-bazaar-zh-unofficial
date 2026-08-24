@@ -3,7 +3,7 @@
 - [前言](foreword.md)
 - [第二版修订说明](revision_notes_for_the_second_edition.md)
 - [前言：你为什么要关注黑客文化](preface_why_you_should_care.md)
-- [译者小记](translator_note.md)
+- [译者序：为什么重译此书](translator_note.md)
 - [本书导读](translator_introduction.md)
 - [本书简要导读：开源社区为什么可以持续自组织运营？](translator_introduction_brief.md)
 - [第一章：黑客国度简史](01_a_brief_history_of_hackerdom/index.md)
@@ -91,6 +91,6 @@
   - [其他资源](appendix_a_how_to_become_a_hacker/other_resources.md)
   - [常见问题解答（FAQ）](appendix_a_how_to_become_a_hacker/frequently_asked_questions.md)
 - [附录 B：fetchmail 项目增长的统计趋势](appendix_b_statistical_trends_in_the_fetchmail_projects_growth/index.md)
-- [译后记](translator_note_translation.md)
+- [译后记：论此译本的翻译范式、翻译作为社会行动](translator_note_translation.md)
 <!-- - [支付声明](payment_statement.md) -->
 - [术语与文献整理](glossary_and_bibliography.md)
