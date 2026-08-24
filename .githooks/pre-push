@@ -1,6 +1,8 @@
 #!/bin/bash
 mdbook build
 
+bash build-sitemap.sh
+
 # 获取项目根目录
 PROJECT_ROOT=$(git rev-parse --show-toplevel)
 
