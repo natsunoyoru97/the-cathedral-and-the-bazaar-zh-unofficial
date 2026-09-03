@@ -92,5 +92,5 @@
   - [常见问题解答（FAQ）](appendix_a_how_to_become_a_hacker/frequently_asked_questions.md)
 - [附录 B：fetchmail 项目增长的统计趋势](appendix_b_statistical_trends_in_the_fetchmail_projects_growth/index.md)
 - [译后记：论此译本的翻译范式、翻译作为社会行动](translator_note_translation.md)
-<!-- - [支付声明](payment_statement.md) -->
+- [支付声明](payment_statement.md)
 - [术语与文献整理](glossary_and_bibliography.md)
