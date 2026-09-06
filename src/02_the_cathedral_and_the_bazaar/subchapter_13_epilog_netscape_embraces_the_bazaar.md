@@ -6,10 +6,6 @@
 
 消息发布后不久，网景执行副总裁、首席技术官埃里克・哈恩（Eric Hahn）给我发来一封邮件，内容如下：“我谨代表网景全体同仁，首先向你致谢，是你的理念引领我们走到今天这一步。你的思考与文字，是我们做出开源决策最核心的思想源泉。”
 
-The following week I flew out to Silicon Valley at Netscape’s invitation for a day-long strategy conference (on 4 February 1998)
-with some of their top executives and technical people. We
-designed Netscape’s source-release strategy and license together.
-
 一周之后，我受网景邀约飞往硅谷，出席 1998 年 2 月 4 日为期一天的战略研讨会，参会者包含公司一众高管与核心技术负责人。我们一同敲定了网景源代码开放方案，并共同起草配套开源许可证。
 
 几天后，我写下这样一段文字：
