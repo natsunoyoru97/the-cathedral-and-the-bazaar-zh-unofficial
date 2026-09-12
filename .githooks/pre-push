@@ -3,6 +3,9 @@ mdbook build
 
 bash build-sitemap.sh
 
+INDEX_NOW_API_KEY="1ec663c2ca7043f39a95f4d63617d9ee"
+cp src/assets/"$INDEX_NOW_API_KEY".txt book
+
 # 获取项目根目录
 PROJECT_ROOT=$(git rev-parse --show-toplevel)
 
